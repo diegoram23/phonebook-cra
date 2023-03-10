@@ -1,0 +1,35 @@
+body {
+    max-width: 390px;
+    margin:  0 auto;
+    padding: 10px;
+}
+
+h2 {
+    color: green;
+}
+
+h5 {
+    padding-bottom: 1.5em;
+    font-size: 15px;
+    margin: 0;
+}
+
+.success-message {
+    font-size: 1.2rem;
+    color: darkgreen;
+    border: 1px solid darkgreen;
+    background: rgb(226, 226, 226);
+    padding: 0.3em;
+    max-width: 70%;
+    margin-top: 0.5em;
+}
+
+.error-message {
+    font-size: 1.2rem;
+    color: red;
+    border: 1px solid red;
+    background: rgb(226, 226, 226);
+    padding: 0.3em;
+    max-width: 70%;
+    margin-top: 0.5em;
+}
